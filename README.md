@@ -1,4 +1,4 @@
-+<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 	<head>
 		<title> The Goop Gallery </title>
